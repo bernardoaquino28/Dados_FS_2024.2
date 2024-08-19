@@ -1,0 +1,6 @@
+git add.
+git commit -m "commitando comandos basicos"
+git push
+
+rafaela ballerini
+bosontreinamento
